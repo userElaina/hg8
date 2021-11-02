@@ -1,0 +1,8 @@
+{
+    "data": {
+        "user": {
+            "id": 1,
+            "privateEmail": "flag{dont_let_graphql_l3ak_data_49b7ac9134@hackergame.ustc}"
+        }
+    }
+}

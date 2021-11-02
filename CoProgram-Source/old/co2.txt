@@ -1,0 +1,200 @@
+Please input your token: 
+Challenge!
+x=25604483332, y=5182147588, ans=1436180497
+[25604483332, 5182147588, 1436180497]
+[25604483332.0, 5182147588.0, 1436180497.0]
+x=52167746742, y=18781596279, ans=45296067204
+[52167746742, 18781596279, 45296067204]
+[52167746742.0, 18781596279.0, 45296067204.0]
+x=42044314845, y=60507231807, ans=22192705161
+[42044314845, 60507231807, 22192705161]
+[42044314845.0, 60507231807.0, 22192705161.0]
+x=29140836539, y=53592224621, ans=49173699690
+[29140836539, 53592224621, 49173699690]
+[29140836539.0, 53592224621.0, 49173699690.0]
+x=66525955019, y=37187016075, ans=26412062157
+[66525955019, 37187016075, 26412062157]
+[66525955019.0, 37187016075.0, 26412062157.0]
+if(x=((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=25604483332, y=5182147588, expected output=1436180497, but your function returned 328
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=24510448385, y=42560181172, ans=1648847179
+[24510448385, 42560181172, 1648847179]
+[24510448385.0, 42560181172.0, 1648847179.0]
+x=47423044447, y=32946432823, ans=0
+[47423044447, 32946432823, 0]
+[47423044447.0, 32946432823.0, 0]
+x=45715562417, y=7135964546, ans=1
+[45715562417, 7135964546, 1]
+[45715562417.0, 7135964546.0, 1.0]
+x=54212597857, y=64115241215, ans=19111114400
+[54212597857, 64115241215, 19111114400]
+[54212597857.0, 64115241215.0, 19111114400.0]
+x=47837962532, y=27470388955, ans=0
+[47837962532, 27470388955, 0]
+[47837962532.0, 27470388955.0, 0]
+if(x=(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),x/x,if(x=((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=24510448385, y=42560181172, expected output=1648847179, but your function returned 733
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=29447454388, y=20483673510, ans=65650410024
+[29447454388, 20483673510, 65650410024]
+[29447454388.0, 20483673510.0, 65650410024.0]
+x=26664493582, y=33062625099, ans=20357847352
+[26664493582, 33062625099, 20357847352]
+[26664493582.0, 33062625099.0, 20357847352.0]
+x=66155459594, y=64577283230, ans=31820580913
+[66155459594, 64577283230, 31820580913]
+[66155459594.0, 64577283230.0, 31820580913.0]
+x=52638150453, y=28521377722, ans=62295207632
+[52638150453, 28521377722, 62295207632]
+[52638150453.0, 28521377722.0, 62295207632.0]
+x=46025528234, y=28532967647, ans=5400703460
+[46025528234, 28532967647, 5400703460]
+[46025528234.0, 28532967647.0, 5400703460.0]
+if(x=(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=29447454388, y=20483673510, expected output=65650410024, but your function returned 1122
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=65899353121, y=55479920803, ans=0
+[65899353121, 55479920803, 0]
+[65899353121.0, 55479920803.0, 0]
+x=58593433443, y=7129326353, ans=0
+[58593433443, 7129326353, 0]
+[58593433443.0, 7129326353.0, 0]
+x=39351563913, y=46054441714, ans=24966895475
+[39351563913, 46054441714, 24966895475]
+[39351563913.0, 46054441714.0, 24966895475.0]
+x=45508867988, y=60740239607, ans=20504576193
+[45508867988, 60740239607, 20504576193]
+[45508867988.0, 60740239607.0, 20504576193.0]
+x=5389213165, y=36150743689, ans=31730794472
+[5389213165, 36150743689, 31730794472]
+[5389213165.0, 36150743689.0, 31730794472.0]
+if(x=((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),(x-x)))))
+for input x=39351563913, y=46054441714, expected output=24966895475, but your function returned 0
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=31059506921, y=40012098809, ans=2
+[31059506921, 40012098809, 2]
+[31059506921.0, 40012098809.0, 2.0]
+x=44826740848, y=66875354275, ans=2
+[44826740848, 66875354275, 2]
+[44826740848.0, 66875354275.0, 2.0]
+x=22149767496, y=28535681882, ans=2
+[22149767496, 28535681882, 2]
+[22149767496.0, 28535681882.0, 2.0]
+x=1368490029, y=34941032214, ans=2
+[1368490029, 34941032214, 2]
+[1368490029.0, 34941032214.0, 2.0]
+x=56107555422, y=30550187018, ans=2
+[56107555422, 30550187018, 2]
+[56107555422.0, 30550187018.0, 2.0]
+if(x=(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*x/x,if(x=((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*x/x,if(x=(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*x/x,if(x=(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*x/x,(x+x)/x*x/x))))
+for input x=44826740848, y=66875354275, expected output=2, but your function returned 0
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=38046313806, y=12573950975, ans=68719476735
+[38046313806, 12573950975, 68719476735]
+[38046313806.0, 12573950975.0, 68719476735.0]
+x=4682072708, y=43250655264, ans=68719476735
+[4682072708, 43250655264, 68719476735]
+[4682072708.0, 43250655264.0, 68719476735.0]
+x=46840543525, y=12986076357, ans=68719476735
+[46840543525, 12986076357, 68719476735]
+[46840543525.0, 12986076357.0, 68719476735.0]
+x=57319490135, y=49393784396, ans=0
+[57319490135, 49393784396, 0]
+[57319490135.0, 49393784396.0, 0]
+x=29114213191, y=26960577706, ans=68719476735
+[29114213191, 26960577706, 68719476735]
+[29114213191.0, 26960577706.0, 68719476735.0]
+if(x=((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=38046313806, y=12573950975, expected output=68719476735, but your function returned 1
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=28775526542, y=41510536856, ans=1289587936
+[28775526542, 41510536856, 1289587936]
+[28775526542.0, 41510536856.0, 1289587936.0]
+x=68009173914, y=25268350743, ans=648616191
+[68009173914, 25268350743, 648616191]
+[68009173914.0, 25268350743.0, 648616191.0]
+x=2101044104, y=16303805514, ans=3077630008
+[2101044104, 16303805514, 3077630008]
+[2101044104.0, 16303805514.0, 3077630008.0]
+x=67839208905, y=62514597358, ans=5324611547
+[67839208905, 62514597358, 5324611547]
+[67839208905.0, 62514597358.0, 5324611547.0]
+x=35573835185, y=42769541915, ans=15586630194
+[35573835185, 42769541915, 15586630194]
+[35573835185.0, 42769541915.0, 15586630194.0]
+if(x=((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=28775526542, y=41510536856, expected output=1289587936, but your function returned 8542
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=41820766185, y=68192430310, ans=26898710551
+[41820766185, 68192430310, 26898710551]
+[41820766185.0, 68192430310.0, 26898710551.0]
+x=66709199922, y=42450035947, ans=44460312761
+[66709199922, 42450035947, 44460312761]
+[66709199922.0, 42450035947.0, 44460312761.0]
+x=60393237010, y=21648872069, ans=51623983864
+[60393237010, 21648872069, 51623983864]
+[60393237010.0, 21648872069.0, 51623983864.0]
+x=57734099033, y=8751690141, ans=63495518549
+[57734099033, 8751690141, 63495518549]
+[57734099033.0, 8751690141.0, 63495518549.0]
+x=18026864023, y=8122585410, ans=66937783533
+[18026864023, 8122585410, 66937783533]
+[18026864023.0, 8122585410.0, 66937783533.0]
+if(x=((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),if(x=(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=41820766185, y=68192430310, expected output=26898710551, but your function returned 1
+Oh no! This test failed! You've solved 0 out of 10
+
+Challenge!
+x=43638393396, y=31333224189, ans=0
+[43638393396, 31333224189, 0]
+[43638393396.0, 31333224189.0, 0]
+x=64779613653, y=51815012023, ans=0
+[64779613653, 51815012023, 0]
+[64779613653.0, 51815012023.0, 0]
+x=63065439307, y=62651664186, ans=0
+[63065439307, 62651664186, 0]
+[63065439307.0, 62651664186.0, 0]
+x=34118326836, y=15019360977, ans=0
+[34118326836, 15019360977, 0]
+[34118326836.0, 15019360977.0, 0]
+x=19031255911, y=939729992, ans=0
+[19031255911, 939729992, 0]
+[19031255911.0, 939729992.0, 0]
+if(x=((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),(x-x)))))
+OK! You've solved 1 out of 10
+
+Challenge!
+x=50895465524, y=384443991, ans=17824011212
+[50895465524, 384443991, 17824011212]
+[50895465524.0, 384443991.0, 17824011212.0]
+x=15280648543, y=34586934712, ans=0
+[15280648543, 34586934712, 0]
+[15280648543.0, 34586934712.0, 0]
+x=29006964862, y=54254218780, ans=0
+[29006964862, 54254218780, 0]
+[29006964862.0, 54254218780.0, 0]
+x=29502846100, y=19695183741, ans=0
+[29502846100, 19695183741, 0]
+[29502846100.0, 19695183741.0, 0]
+x=63190555597, y=29658615013, ans=0
+[63190555597, 29658615013, 0]
+[63190555597.0, 29658615013.0, 0]
+if(x=((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),if(x=((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x),(x-x),(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*((x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*(x+x)/x*x/x+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)+x/x)))))
+for input x=50895465524, y=384443991, expected output=17824011212, but your function returned 0
+Oh no! This test failed! You've solved 1 out of 10
+You are NOT a true co-programmer! Who are you!

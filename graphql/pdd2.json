@@ -1,0 +1,25 @@
+{
+    "data": {
+        "__type": {
+            "name": "GNote",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": {
+                        "name": "Int",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "contents",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}
